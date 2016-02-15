@@ -26,6 +26,7 @@ public class ArrayUtils {
 		
 		}
 		System.out.println(minvalue);
+		
 	}
 	
 
